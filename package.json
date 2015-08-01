@@ -1,0 +1,25 @@
+{
+  "name": "uap",
+  "version": "1.0.0",
+  "description": "package for uap.aim to resolve font-end resource manager problems.",
+  "main": "index.js",
+  "bin": {
+    "uap": "bin/uap.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fiss",
+    "uap"
+  ],
+  "author": "GuoYongfeng",
+  "license": "ISC",
+  "dependencies": {
+    "fis-parser-less": "^0.1.3",
+    "fis3": "^3.0.16",
+    "fis3-hook-module": "^1.1.18",
+    "liftoff": "^2.1.0",
+    "minimist": "^1.1.2"
+  }
+}
