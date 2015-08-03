@@ -8,6 +8,6 @@
 
 ## 使用
 
-* 开发 ```code uap release ```
-* 生产 ```code uap release prod ```
+* 开发 ```uap release ```
+* 生产 ```uap release prod ```
 
