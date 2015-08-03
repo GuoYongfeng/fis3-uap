@@ -1,8 +1,13 @@
 # UAP
 
-> 基于FIS3，封装UAP的前端解决方案
+> 基于FIS3，封装以JAVA为后端，velocity、JSP、FreeMarker为模板的UAP前端解决方案
 
-## 使用说明
+## 安装
 
-* npm install uap -g
+* npm install fis3 uap -g
+
+## 使用
+
+* 开发 ```code uap release ```
+* 生产 ```code uap release prod ```
 

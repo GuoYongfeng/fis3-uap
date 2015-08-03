@@ -14,7 +14,7 @@
     "uap"
   ],
   "author": "guoyongfeng",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fis-parser-less": "^0.1.3",
     "fis3": "^3.0.16",
