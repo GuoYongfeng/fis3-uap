@@ -1,6 +1,6 @@
 {
   "name": "uap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "package for uap.aim to resolve font-end resource manager problems.",
   "main": "index.js",
   "bin": {

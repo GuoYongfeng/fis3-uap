@@ -6,5 +6,5 @@ fis.cli.name = 'uap';
 fis.cli.info = require('./package.json');
 fis.cli.help.commands = [ 'release', 'server' ];
 
-var defaultConf = require('./conf/defaultConf.js');
+var defaultConf = require('./conf/default.js');
 
